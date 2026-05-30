@@ -1,6 +1,5 @@
 // @ts-nocheck 
-import { useState, useEffect, useRef } from 'react';
-const NICHES = [
+import { useState, useEffect, useRef } from 'react'; const NICHES = [
   {
     id: 'hvac',
     label: 'HVAC',
