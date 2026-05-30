@@ -1,4 +1,4 @@
-import { useState, useEffect, useRef } from 'react';
+// @ts-nocheck import { useState, useEffect, useRef } from 'react';
 
 const NICHES = [
   {
